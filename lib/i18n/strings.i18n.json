@@ -1,0 +1,33 @@
+{
+    "loading": "Loading",
+    "error": "An error ocurred",
+    "retry": "Retry",
+    "authentication": {
+        "sign_in": "sign in",
+        "sign_up": "sign up",
+        "email": "email",
+        "password": "password",
+        "already_account": "Don't have an account? Sign up!",
+        "restore_password": "Restore password",
+        "empty_field": "Field can not be empty",
+        "name": "Name",
+        "birthday": "Birthday",
+        "id": "ID",
+        "not_valid_email": "Doesn't look like an email",
+        "not_valid_password": "Need a password with at least 8 characters, 1 mayus, 1 minus, 1 number and 1 symbol",
+        "must_be_18": "Only +18 Users allow to sign up",
+        "successfuly_user_created": "User created successfuly",
+        "restored_password": "Email has been send, follow instructions for restore password"
+    },
+    "home": {
+        "list": "List",
+        "favorites":"Favorites",
+        "comparison":"Comparison",
+        "title": "Crypto App"
+    },
+    "profile": {
+        "title": "Profile",
+        "update_data": "Update profile"
+        
+    }
+}

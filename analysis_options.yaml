@@ -1,1 +1,14 @@
 include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    use_string_in_part_of_directives: ignore
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    always_specify_types: true
+    sort_constructors_first: true
+    unnecessary_await_in_return: true
+
+

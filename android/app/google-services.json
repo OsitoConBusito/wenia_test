@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733385124300",
+    "project_id": "wenia-test",
+    "storage_bucket": "wenia-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733385124300:android:ec2fdbeaade51b8dc81569",
+        "android_client_info": {
+          "package_name": "com.wenia.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZDpdH4c_uJ7B_bJ6f85Cl-hrMTQ2sJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.wenia_test
+package com.wenia.test
 
 import io.flutter.embedding.android.FlutterActivity
 
