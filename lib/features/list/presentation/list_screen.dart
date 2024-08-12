@@ -34,6 +34,7 @@ class _ListScreenState extends ConsumerState<ListScreen> {
                   ),
                   trailing: Text('${item.currentPrice?.toString() ?? ''} USD'),
                   tileColor: Theme.of(context).colorScheme.onPrimary,
+                  onTap: () {},
                 ),
               );
             },
